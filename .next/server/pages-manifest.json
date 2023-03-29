@@ -1,6 +1,23 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/chats/[id]": "pages/chats/[id].html",
+  "/chats": "pages/chats.html",
+  "/community/[id]": "pages/community/[id].html",
+  "/enter": "pages/enter.html",
+  "/": "pages/index.html",
+  "/items/[id]": "pages/items/[id].html",
+  "/live/[id]": "pages/live/[id].html",
+  "/items/upload": "pages/items/upload.html",
+  "/live": "pages/live.html",
+  "/live/create": "pages/live/create.html",
+  "/profile/edit": "pages/profile/edit.html",
+  "/profile/bought": "pages/profile/bought.html",
+  "/profile": "pages/profile.html",
+  "/profile/sold": "pages/profile/sold.html",
+  "/community": "pages/community.html",
+  "/profile/loved": "pages/profile/loved.html",
+  "/community/write": "pages/community/write.html",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }
